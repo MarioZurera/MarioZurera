@@ -23,9 +23,9 @@
 ![nUnit](https://img.shields.io/badge/nunit-darkcyan?style=for-the-badge)
 ![GoogleTest](https://img.shields.io/badge/Google_Test-midnightblue?style=for-the-badge)
 ![Fluent assertions](https://img.shields.io/badge/fluent_assertions-mediumslateblue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kernel](https://img.shields.io/badge/Kernel-D3AE40.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge)
