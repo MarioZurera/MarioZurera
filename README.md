@@ -10,7 +10,7 @@
 ### Tech Stack
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0F0F00.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=.NET&logoColor=white)
 ### Software Crafting Skills
 ![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
 ![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
@@ -30,7 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge)
 ![Nvim](https://img.shields.io/badge/NeoVim-46CD77.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-0F0F00?style=for-the-badge&logo=CLion&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-0038CD?style=for-the-badge&logo=CLion&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
 <!-- ### Other Skills
 ![Competitive Programming](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge) -->
