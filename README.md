@@ -1,10 +1,10 @@
 # Hi!👋 I'm [Mario Zurera de Alva](_)
 
 ## About Me
-* 🗺️Spanish, English
-* ⌨️Sofware Developer
-* ⚙️System Programmer
-* 📕Avid sofware reader
+* 🗺️ Spanish, English
+* ⌨️ Sofware Developer
+* ⚙️ System Programmer
+* 📕 Avid sofware reader
   
 ## Skills
 ### Tech Stack
