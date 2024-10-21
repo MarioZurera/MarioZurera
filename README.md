@@ -8,9 +8,9 @@
   
 ## Skills
 ### Tech Stack
-![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-0F0F00.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ### Software Crafting Skills
 ![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
 ![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
@@ -40,8 +40,10 @@
 
 📖 Current readings:
 * The Art of Readable Code; Dustin Boswell, Trevor Foucher
+* The Pragmatic Programmer: Your journey to mastery; Andrew Hunt, David Thomas
 * Fundamentals of Database Systems; Elmasri, Navathe
-* The Pragmatic Programmer: From Journeyman to Master; Andrew Hunt, David Thomas
+* The Linux Programming Interface; Michael Kerrisk
+* Calculus; Michael Spivak
 
 📕 Previous readings:
 * Effective C; Robert C. Seacord
