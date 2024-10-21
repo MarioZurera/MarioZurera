@@ -1,4 +1,4 @@
-# Hi!👋 I'm [_](_)
+# Hi!👋 I'm [Mario Zurera de Alva](_)
 
 ## About Me
 * 🗺️Spanish, English
@@ -8,9 +8,9 @@
   
 ## Skills
 ### Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Rust](_)
+![C#](https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-0F0F00.svg?style=for-the-badge&logo=rust&logoColor=white)
 ### Software Crafting Skills
 ![TDD](https://img.shields.io/badge/TDD-blueviolet?style=for-the-badge)
 ![XP](https://img.shields.io/badge/XP-darkolivegreen?style=for-the-badge)
@@ -20,18 +20,20 @@
 ![SOLID](https://img.shields.io/badge/SOLID-darkblue?style=for-the-badge)
 ![Design patterns](https://img.shields.io/badge/Design%2FPatterns-cyan?style=for-the-badge)
 ### Other Technologies
-![nUnit](https://img.shields.io/badge/nunit-midnightblue?style=for-the-badge)
+![nUnit](https://img.shields.io/badge/nunit-darkcyan?style=for-the-badge)
+![GoogleTest](https://img.shields.io/badge/Google_Test-midnightblue?style=for-the-badge)
 ![Fluent assertions](https://img.shields.io/badge/fluent_assertions-mediumslateblue?style=for-the-badge)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge)
+![Nvim](https://img.shields.io/badge/NeoVim-46CD77.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-0F0F00?style=for-the-badge&logo=CLion&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
-![Nvim](https://img.shields.io/badge/Rider-0F0F00.svg?style=for-the-badge&logo=Rider&logoColor=white)
-### Other Skills
-<!-- ![Competitive Programming](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge) -->
+<!-- ### Other Skills
+![Competitive Programming](https://img.shields.io/badge/Competitive_programming-darkgrey?style=for-the-badge) -->
 
 
 ## Readings
