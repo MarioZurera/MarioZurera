@@ -1,4 +1,4 @@
-# Hi!👋 I'm [Mario Zurera de Alva](_)
+# Hi!👋 I'm [Mario Zurera de Alva](https://www.linkedin.com/in/mzurera)
 
 ## About Me
 * 🗺️ Spanish, English
@@ -67,6 +67,6 @@
 <br />
 Discord: @maniel73
 <br />
-X: [_](_)
+X: [mario732004](https://x.com/Mario732004)
 <br />
-Linkedin: [_](_)
+Linkedin: [mzurera](https://www.linkedin.com/in/mzurera)
