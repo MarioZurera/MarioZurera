@@ -39,7 +39,6 @@
 ## Readings
 
 📖 Current readings:
-* The Art of Readable Code; Dustin Boswell, Trevor Foucher
 * The Pragmatic Programmer: Your journey to mastery; Andrew Hunt, David Thomas
 * Fundamentals of Database Systems; Elmasri, Navathe
 * The Linux Programming Interface; Michael Kerrisk
@@ -47,6 +46,7 @@
 
 📕 Previous readings:
 * Effective C; Robert C. Seacord
+* The Art of Readable Code; Dustin Boswell, Trevor Foucher
 <!-- * Programming Interviews for Dummies; Eric Butow, John Sonmez
 * 101 Great Answers to the Toughest Interview Questions; Ron Fry
 * The Nature of Software Development; Ron Jeffries
