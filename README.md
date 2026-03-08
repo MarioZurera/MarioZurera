@@ -1,10 +1,10 @@
 # Hi!👋 I'm [Mario Zurera de Alva](https://www.linkedin.com/in/mzurera)
 
 ## About Me
-* 🗺️ Spanish, English
-* ⌨️ Sofware Developer
-* ⚙️ System Programmer
-* 📕 Avid sofware reader
+* 🗺️ Spanish, English, Indonesian
+* ⌨️ Software Developer?
+* ⚙️ Computer Scientist
+* 📕 Avid (software) reader [IN PROGRESS]
   
 ## Skills
 ### Tech Stack
@@ -41,7 +41,6 @@
 📖 Current readings:
 * The Pragmatic Programmer: Your journey to mastery; Andrew Hunt, David Thomas
 * Fundamentals of Database Systems; Elmasri, Navathe
-* The Linux Programming Interface; Michael Kerrisk
 * Calculus; Michael Spivak
 
 📕 Previous readings:
