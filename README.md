@@ -59,7 +59,7 @@
 
 ## Technologies used in my repos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioZurera&hide_border=false&theme=midnight-purple&layout=compact)
+![Top Langs](https://githubcard.com/MarioZurera.svg?d=NCUlnqFb)
 
 ## Contact
 ✉️ marioza2004@gmail.com
