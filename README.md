@@ -59,7 +59,7 @@
 
 ## Technologies used in my repos
 
-![Top Langs](https://githubcard.com/MarioZurera.svg?d=NCUlnqFb)
+![Top Langs](https://githubcard.com/MarioZurera.svg?d=3D2JvzOD)
 
 ## Contact
 ✉️ marioza2004@gmail.com
