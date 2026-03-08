@@ -38,7 +38,7 @@
 
 ## Readings
 
-📖 Current readings:
+📖 Current software readings:
 * The Pragmatic Programmer: Your journey to mastery; Andrew Hunt, David Thomas
 * Fundamentals of Database Systems; Elmasri, Navathe
 * Calculus; Michael Spivak
