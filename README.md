@@ -2,7 +2,7 @@
 
 ## About Me
 * 🗺️ Spanish, English, Indonesian
-* ⌨️ Software Developer?
+* 📈 Mathematician?
 * ⚙️ Computer Scientist
 * 📕 Avid (software) reader [IN PROGRESS]
   
